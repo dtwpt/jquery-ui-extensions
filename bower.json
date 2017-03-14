@@ -5,7 +5,10 @@
     "Miguel Sousa <geral@dtwpt.com>"
   ],
   "description": "Autoselect for jquery-ui Autocomplete",
-  "main": "",
+  "main": [
+    ".src/autocomplete/jquery.ui.autocomplete.autoSelect.js",
+    ".src/autocomplete/jquery.ui.autocomplete.accentFolding.js"
+  ],
   "license": "MIT",
   "ignore": [
     "**/.*",
